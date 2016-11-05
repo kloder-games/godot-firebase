@@ -49,7 +49,7 @@ This is the Firebase module for Godot Engine (https://github.com/okamstudio/godo
 
 	```
 	[android]
-	modules="org/godotengine/godot/GodotGoogleAnalytics"
+	modules="org/godotengine/godot/GodotFirebase"
 	```
 
 	If you have more separete by comma.
